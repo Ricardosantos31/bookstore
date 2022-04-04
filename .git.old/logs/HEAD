@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 309124618f6078c5ba8677d713e86edf7eb3cd46 Ricardosantos31 <riacrdok9@gmail.com> 1643856709 -0400	commit (initial): initial commit
+309124618f6078c5ba8677d713e86edf7eb3cd46 98ff7f0f051550b949366791aefe0297e51df7a2 Ricardosantos31 <riacrdok9@gmail.com> 1643911771 -0400	commit: angular material instalado no projeto
+98ff7f0f051550b949366791aefe0297e51df7a2 db3b1d41d9ac9252f400c9b08b0c40e15feb76eb Ricardosantos31 <riacrdok9@gmail.com> 1644353351 -0400	commit: home implementado com rota
+db3b1d41d9ac9252f400c9b08b0c40e15feb76eb ceb4907ddc043ffa6bac6e701a40f287fde06924 Ricardosantos31 <riacrdok9@gmail.com> 1644527901 -0400	commit: categoria-read foi implementado
+ceb4907ddc043ffa6bac6e701a40f287fde06924 5bf91f06ddbc10b0b5c8a7c6b094eec0640742a3 Ricardosantos31 <riacrdok9@gmail.com> 1644610509 -0400	commit: ajustes no component-read
+5bf91f06ddbc10b0b5c8a7c6b094eec0640742a3 110b3f95a6d94ae903fcf6a8e5de89efc952d650 Ricardosantos31 <riacrdok9@gmail.com> 1645564257 -0400	commit: Metodo CREATE implementado para categoria
+110b3f95a6d94ae903fcf6a8e5de89efc952d650 be784e75b4bdd99dbc20b1a0e7b2d1606f0c12cd Ricardosantos31 <riacrdok9@gmail.com> 1645564743 -0400	commit: finalizando o metodo CREATE
+be784e75b4bdd99dbc20b1a0e7b2d1606f0c12cd 06db8b267fdc3028f7edc51e98166b8f3175b142 Ricardosantos31 <riacrdok9@gmail.com> 1646154061 -0400	commit: Categoria DELETE implementado
+06db8b267fdc3028f7edc51e98166b8f3175b142 c677bd23fe01c19004f230654b8bce5262ba4553 Ricardosantos31 <riacrdok9@gmail.com> 1646707710 -0400	commit: UPDATE para Categoria foi implementado
+c677bd23fe01c19004f230654b8bce5262ba4553 e04716c9e1373d5a775aade9ebb5e3de0134eef4 Ricardosantos31 <riacrdok9@gmail.com> 1647552954 -0400	commit: leitura de todos os livros por categoria implementado
+e04716c9e1373d5a775aade9ebb5e3de0134eef4 4e5583206c8e99190dd56c2ccbf184b210c8a3ae Ricardosantos31 <riacrdok9@gmail.com> 1648694532 -0400	commit: livro-create foi implementado
+4e5583206c8e99190dd56c2ccbf184b210c8a3ae 10ab71ece71b64fba26e12a41bc24481c7338e71 Ricardosantos31 <riacrdok9@gmail.com> 1648756382 -0400	commit: livro-update foi implementado
+10ab71ece71b64fba26e12a41bc24481c7338e71 60d114c24939c880bb6dd061914a92195e66d5fb Ricardosantos31 <riacrdok9@gmail.com> 1649016459 -0400	commit: livro-delete foi implementado
+60d114c24939c880bb6dd061914a92195e66d5fb 56aa8f6ceebc116f76ee8a7cf036293547d62daf Ricardosantos31 <riacrdok9@gmail.com> 1649108573 -0400	commit: livro-read foi implementado
